@@ -1,0 +1,10 @@
+:host{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.alert{
+    position: absolute;
+    top: 10px;
+    width: 80%; 
+}
